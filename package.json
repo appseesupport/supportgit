@@ -1,0 +1,23 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "canvas for appsee support desk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appseesupport/supportgit.git"
+  },
+  "keywords": [
+    "appsee"
+  ],
+  "author": "Shiran Attias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appseesupport/supportgit/issues"
+  },
+  "homepage": "https://github.com/appseesupport/supportgit#readme"
+}
